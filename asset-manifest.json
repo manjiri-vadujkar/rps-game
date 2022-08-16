@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/rps-game/static/css/main.6a6925ca.css",
+    "main.js": "/rps-game/static/js/main.d5572271.js",
+    "static/js/787.f0d309e9.chunk.js": "/rps-game/static/js/787.f0d309e9.chunk.js",
+    "static/media/scissors-icon.png": "/rps-game/static/media/scissors-icon.0b124865b3781848e231.png",
+    "static/media/rock-icon.png": "/rps-game/static/media/rock-icon.1f4f110998f85367626a.png",
+    "static/media/paper-icon.png": "/rps-game/static/media/paper-icon.f2b5387d6a86a0de401b.png",
+    "index.html": "/rps-game/index.html",
+    "main.6a6925ca.css.map": "/rps-game/static/css/main.6a6925ca.css.map",
+    "main.d5572271.js.map": "/rps-game/static/js/main.d5572271.js.map",
+    "787.f0d309e9.chunk.js.map": "/rps-game/static/js/787.f0d309e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a6925ca.css",
+    "static/js/main.d5572271.js"
+  ]
+}
